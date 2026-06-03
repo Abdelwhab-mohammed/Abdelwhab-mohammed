@@ -3,7 +3,7 @@
 <p>
 Welcome to my GitHub profile 👋 </br>
 I'm <b>Abdelwhab Mohammed Abdelwhab Badawy</b>, a Software Engineering student from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/> <b>Giza, Egypt</b>, currently studying at 
+<img src="https://flagcdn.com/eg.svg" width="16" /> <b>Giza, Egypt</b>, currently studying at 
 <b>Helwan University – Faculty of Computers and Artificial Intelligence.</b>.
 </p>
 
