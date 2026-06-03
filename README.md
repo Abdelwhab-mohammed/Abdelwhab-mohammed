@@ -1,98 +1,117 @@
-<h1 align="center">Hey 👋, I'm Abdelwhab Mohammed</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align="center">
-Software Engineer | Computer Science Student @ Helwan University (Year 3)
+<p>
+Welcome to my GitHub profile 👋 </br>
+I'm <b>Abdelwhab Mohammed Abdelwhab Badawy</b>, a Software Engineering student from 
+<img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/> <b>Giza, Egypt</b>, currently studying at 
+<b>Helwan University – Faculty of Computers and Information</b>.
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Student at Faculty of Computers and Information – Helwan University  
-- 📍 From Giza, Egypt  
-- 💻 Interested in Software Engineering & Backend Development  
-- 🚀 Currently focusing on becoming a .NET Backend Developer (ASP.NET)  
-- 📚 Strong foundation in programming and problem solving  
+## 💡 About Me
+- 🎓 3rd Year Computer Science Student  
+- 💻 Passionate about Software Engineering & Backend Development  
+- 🚀 Currently focusing on ASP.NET Core & Backend Development  
+- 🧠 Strong foundation in programming & OOP concepts  
+- 📚 Always learning and building projects  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Things I code with
 
-### 💡 Programming Languages
-C / C++ / Java / JavaScript / PHP / SQL  
+<p>
+  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-### 🌐 Frontend (Basic Knowledge)
-HTML / CSS / JavaScript / React (basic level)
+---
 
-### ⚙️ Backend (Learning Path)
-ASP.NET (currently learning)  
+## 🌐 Frontend (Learning)
 
-### 🗄️ Databases
-SQL Server  
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
 
-### 🔧 Tools
-Git / GitHub / Linux / Figma  
+---
+
+## ⚙️ Backend (Currently Learning)
+
+<p>
+  <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+## 🔧 Tools
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
 ---
 
 ## 📌 Projects
 
-### 📚 Book Display Website
-A simple website that displays books with basic UI and interaction using HTML, CSS, and JavaScript.
+### 📚 Book Website
+Simple website to display books using HTML, CSS, JS.
 
 ---
 
 ### 👨‍💼 Employee Management System (Java OOP)
-A system built using OOP principles that simulates a real company workflow.
-
-**Features:**
-- Employee attendance tracking (check-in / check-out)
-- Vacation requests
-- Task assignment and completion tracking
-- Team leader management panel
-- Project manager reporting system
-- Admin control over users and projects
+System simulating company workflow:
+- Employee attendance tracking  
+- Task assignment & completion  
+- Vacation requests  
+- Role-based modules (Admin / Manager / Employee)
 
 ---
 
-### 🧠 Intellectual Property (Patent Tracking System)
-A large-scale academic project simulating an enterprise IP management system.
+### 🧠 Patent Tracking System (University Project)
+Enterprise-level system for managing patents from idea to licensing.
 
-**Core Idea:**
-Managing inventions from disclosure to patent approval and licensing.
-
-**Main Modules:**
-- Invention disclosure & documentation system  
-- Patent filing & prosecution tracking  
-- Renewal and financial management  
-- Licensing & royalty distribution  
-- Security and role-based access control  
-
-> Built as a team project (~30+ functions implemented)
+- Invention tracking & documentation  
+- Patent lifecycle management  
+- Licensing & royalties  
+- Security & role-based access control  
+- Built with team (~30+ implemented functions)
 
 ---
 
-### 🧪 Practice Projects
-Small frontend projects built while learning JavaScript for practice and skill development.
+## 🚀 Current Focus
+
+- Learning ASP.NET Core backend development  
+- Improving system design & problem solving  
+- Building real-world backend projects  
 
 ---
 
-## 📈 Current Goal
+## 📫 Contact Me
 
-- Become a strong Backend Developer using **ASP.NET Core**
-- Improve problem solving and system design skills
-- Build real-world backend projects
-
----
-
-## 📫 Contact
-
-- GitHub: [https://github.com/Abdelwhab-mohammed]
-- LinkedIn: [https://www.linkedin.com/in/abdelwhab-mohammed-mlygy-333828382?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-- Email: [hoba2190@gmail.com]
+- GitHub: https://github.com/yourusername  
+- LinkedIn: your-link  
+- Email: your-email  
 
 ---
 
 <p align="center">
-⭐ Always learning, always improving.
+⭐ Keep learning, keep building.
 </p>
