@@ -63,7 +63,10 @@ I'm <b>Abdelwhab Mohammed Abdelwhab Badawy</b>, a Software Engineering student f
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
 <br>CSS3
 </td>
-
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+<br>JavaScript
+</td>
 <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass"/>
 <br>Sass
