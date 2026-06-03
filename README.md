@@ -86,13 +86,12 @@ System simulating company workflow:
 ---
 
 ### 🧠 Patent Tracking System (University Project)
-Enterprise-level system for managing patents from idea to licensing.
-
-- Invention tracking & documentation  
-- Patent lifecycle management  
-- Licensing & royalties  
-- Security & role-based access control  
-- Built with team (~30+ implemented functions)
+Enterprise-style system for managing the full lifecycle of patents from invention disclosure to approval, licensing, and commercialization.
+- Manage invention documentation and prior art tracking
+- Track patent application status across different stages
+- Handle renewals, deadlines, and legal compliance
+- Support licensing, royalties, and revenue distribution
+- Role-based access control with secure document management
 
 ---
 
@@ -106,9 +105,9 @@ Enterprise-level system for managing patents from idea to licensing.
 
 ## 📫 Contact Me
 
-- GitHub: https://github.com/yourusername  
-- LinkedIn: your-link  
-- Email: your-email  
+- GitHub: https://github.com/Abdelwhab-mohammed  
+- LinkedIn: https://www.linkedin.com/in/abdelwhab-mohammed-mlygy-333828382?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+- Email: hoab2190@gmail.com  
 
 ---
 
